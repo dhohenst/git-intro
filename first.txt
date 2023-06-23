@@ -6,3 +6,7 @@ It isn't what we say or think that defines us, but what we do.
 Four score and seven years ago our fathers brought forth on this continent,
 a new nation, conceived in Liberty, and dedicated to the proposition that
 all men are created equal.
+
+In the beginning the Universe was created.
+This has made a lot of people very angry and has been widely regarded as a bad move.
+- The Restaurant at the End of the Universe. Douglas Adams
